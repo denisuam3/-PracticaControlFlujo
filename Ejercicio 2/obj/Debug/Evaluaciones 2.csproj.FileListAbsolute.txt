@@ -1,0 +1,20 @@
+C:\Users\Dell\Documents\Evaluacion\Evaluaciones 2\obj\Debug\Evaluaciones 2.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Evaluacion\Evaluaciones 2\obj\Debug\Evaluaciones_2.Properties.Resources.resources
+C:\Users\Dell\Documents\Evaluacion\Evaluaciones 2\obj\Debug\Evaluaciones 2.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Evaluacion\Evaluaciones 2\obj\Debug\Evaluaciones 2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Evaluacion\Evaluaciones 2\bin\Debug\Evaluaciones 2.exe.config
+C:\Users\Dell\Documents\Evaluacion\Evaluaciones 2\bin\Debug\Evaluaciones 2.exe
+C:\Users\Dell\Documents\Evaluacion\Evaluaciones 2\bin\Debug\Evaluaciones 2.pdb
+C:\Users\Dell\Documents\Evaluacion\Evaluaciones 2\obj\Debug\Evaluaciones 2.exe
+C:\Users\Dell\Documents\Evaluacion\Evaluaciones 2\obj\Debug\Evaluaciones 2.pdb
+C:\Users\Dell\Documents\Evaluacion\Evaluaciones 2\obj\Debug\Evaluacion.Form1.resources
+C:\Users\denis\OneDrive\Documentos\Fernando\PracticaControlFlujo\Evaluaciones 2\bin\Debug\Evaluaciones 2.exe.config
+C:\Users\denis\OneDrive\Documentos\Fernando\PracticaControlFlujo\Evaluaciones 2\bin\Debug\Evaluaciones 2.exe
+C:\Users\denis\OneDrive\Documentos\Fernando\PracticaControlFlujo\Evaluaciones 2\bin\Debug\Evaluaciones 2.pdb
+C:\Users\denis\OneDrive\Documentos\Fernando\PracticaControlFlujo\Evaluaciones 2\obj\Debug\Evaluaciones 2.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Documentos\Fernando\PracticaControlFlujo\Evaluaciones 2\obj\Debug\Evaluacion.Form1.resources
+C:\Users\denis\OneDrive\Documentos\Fernando\PracticaControlFlujo\Evaluaciones 2\obj\Debug\Evaluaciones_2.Properties.Resources.resources
+C:\Users\denis\OneDrive\Documentos\Fernando\PracticaControlFlujo\Evaluaciones 2\obj\Debug\Evaluaciones 2.csproj.GenerateResource.cache
+C:\Users\denis\OneDrive\Documentos\Fernando\PracticaControlFlujo\Evaluaciones 2\obj\Debug\Evaluaciones 2.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Documentos\Fernando\PracticaControlFlujo\Evaluaciones 2\obj\Debug\Evaluaciones 2.exe
+C:\Users\denis\OneDrive\Documentos\Fernando\PracticaControlFlujo\Evaluaciones 2\obj\Debug\Evaluaciones 2.pdb
